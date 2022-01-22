@@ -1,4 +1,4 @@
-## Olá! eu sou a Bianca Leal, seja bem-vindo(a) ao meu perfil!
+## Welcome to my Github Profile!
 <div align="center">
   <a href="https://github.com/BiancaLeall">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaleall&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
