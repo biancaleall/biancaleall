@@ -2,7 +2,7 @@
 
 > [![](https://discord.c99.nl/widget/theme-4/826171434505470053.png)](https://discord.com/users/826171434505470053) <br>
                                              
-<div align="center">
+<div >
   <a href="https://github.com/BiancaLeall">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaleall&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaleall&layout=compact&langs_count=7&theme=bear"/>
