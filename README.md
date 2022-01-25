@@ -1,4 +1,5 @@
-## _Welcome to my Github Profile!_ <br>
+## _Welcome to my Github Profile!_ 
+ <img align="right" alt="!" height="140" style="border-radius:50px;" src="https://icons.iconarchive.com/icons/chanut/role-playing/128/Spell-Book-icon.png"><br>
 
 > [![](https://discord.c99.nl/widget/theme-4/826171434505470053.png)](https://discord.com/users/826171434505470053) <br>
                      
@@ -12,8 +13,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="!" height="150" style="border-radius:50px;" src="https://icons.iconarchive.com/icons/chanut/role-playing/128/Spell-Book-icon.png"
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 </div>
   
   ##
