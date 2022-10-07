@@ -7,11 +7,6 @@
 
 > [![](https://discord.c99.nl/widget/theme-4/826171434505470053.png)](https://discord.com/users/826171434505470053) <br>
                      
-<div  align="center" >
-  <a href="https://github.com/BiancaLeall" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biancaleall&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaleall&layout=compact&langs_count=7&theme=bear"/>
-</div>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
