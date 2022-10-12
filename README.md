@@ -3,7 +3,7 @@
 <strong> <em> Welcome to my Github Profile! 
  </div>
  
- <img align="right" alt="!" height="120" style="border-radius:50px;" src="https://icons.iconarchive.com/icons/chanut/role-playing/128/Spell-Book-icon.png"><br>
+ <img align="right" alt="!" height="120" style="border-radius:50px;" https://iconarchive.com/show/role-playing-icons-by-chanut/Crystal-Shard-icon.html"><br>
 
 > [![](https://discord.c99.nl/widget/theme-4/826171434505470053.png)](https://discord.com/users/826171434505470053) <br>
                      
