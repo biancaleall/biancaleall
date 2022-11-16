@@ -3,7 +3,7 @@
 <strong> <em> Welcome to my Github Profile! 
  </div>
  
-> [![](https://discord.c99.nl/widget/theme-4/826171434505470053.png)](https://discord.com/users/826171434505470053) <br>![image](https://user-images.githubusercontent.com/98168384/202216308-0f0e7a02-12a6-4eb9-9f92-60909c50e580.png)
+> [![](https://discord.c99.nl/widget/theme-4/826171434505470053.png)](https://discord.com/users/826171434505470053) <br>
 
                      
   <p align = "center">
