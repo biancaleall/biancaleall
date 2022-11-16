@@ -3,7 +3,7 @@
 <strong> <em> Welcome to my Github Profile! 
  </div>
  
-
+<br>
                      
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=biancaleall&show_icons=true&theme=midnight-purple&line_height=27">
